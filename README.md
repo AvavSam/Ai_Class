@@ -1,2 +1,2 @@
-# Ai_Class
-Avav Abdillah Sam F55123020
+# Avav Abdillah Sam F55123020
+Kelas Kecerdasan Buatan
